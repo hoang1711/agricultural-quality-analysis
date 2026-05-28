@@ -1,4 +1,4 @@
-# 🌱 Agricultural Quality Analysis System
+# Agricultural Quality Analysis System
 
 Hệ thống phân tích chất lượng trái cây qua ảnh — tự động nhận diện tươi/hỏng, phát hiện vùng khuyết tật, và tư vấn tiếng Việt cho nông dân.
 
